@@ -1,0 +1,4 @@
+python -m venv flowmatching_env
+flowmatching_env\Scripts\activate
+pip install --upgrade pip
+pip install -r requirements.txt
